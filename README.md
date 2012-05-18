@@ -2,15 +2,15 @@ Cross-Platform Css-Drop-Down
 ============================
 
 Plan to develop css dropdown that works for as many devices as possible. This project is part of a bigger development
-effort to create small UI components to work across many platforms and can be used with many existing development tool.
+effort to create small UI components to work across many platforms and can be used with many existing development tools.
 The list will be designed to support common web frameworks natively with optimization in mind. The approach is to 
-have common sets of commands integrated into the attributes of the drop-down to customze.
+have common sets of commands integrated into the attributes of the drop-down to customize.
 
-First version will be to designed using Javascript and Css to get an optionally curvy drop-down with a picture choice
-for the section where the user clicks. Also picture will be moveable to make code compatible with all languages and
+First version will be to designe using Javascript and Css to get an optionally curvy drop-down with a picture choice
+for the section where the user clicks. Also the section will be moveable to make code compatible with all languages and
 allow more creative designs. 
 
-First version should have all the necessary features such as mobile support and getter/setter 
+First version should have all the necessary features such as mobile support, HTML5 complient and getter/setter 
 functionalities such as setting the list to display, retrieving selected and reloading list. 
 
 Moreover, allow grouping and textured backgrounds. Allowing checkboxes within the list displayed.  
